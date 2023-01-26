@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gounténi Dambé TCHIMBIANDJA aka syk1k</h1>
 <h3 align="center">A passionate full stack developer from TOGO. A Pythonista, I love coding and challanges.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syk1k&label=Profile%20views&color=0e75b6&style=flat" alt="syk1k" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syk1k" alt="syk1k" /></a> </p>
-
 - 🔭 I’m currently working on [django-geolocation-fields](https://github.com/syk1k/django-geolocation-fields)
 
 - 🌱 I’m currently learning **NodeJS, Golang**
