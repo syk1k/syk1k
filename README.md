@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gounténi Dambé TCHIMBIANDJA aka syk1k</h1>
-<h3 align="center">A passionate full stack developer from TOGO. A Pythonista, I love coding and challanges.</h3>
+<h3 align="center">A passionate full stack developer from TOGO. A Pythonista, I love coding and challenges.</h3>
 
 - 🔭 I’m currently working on [django-geolocation-fields](https://github.com/syk1k/django-geolocation-fields)
 
