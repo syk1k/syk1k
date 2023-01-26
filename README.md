@@ -1,11 +1,18 @@
-<h3 align="center">A passionate full stack developer from TOGO</h3>
+<h1 align="center">Hi 👋, I'm Gounténi Dambé TCHIMBIANDJA aka syk1k</h1>
+<h3 align="center">A passionate full stack developer from TOGO. A Pythonista, I love coding and challanges.</h3>
+
+- 🌱 I’m currently learning **NodeJS, Golang**
 
 - 💬 Ask me about **Python, Golang, JavaScript**
 
 - 📫 How to reach me **dambemondo@gmail.com**
 
+- ⚡ Fun fact **I hate PHP**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/syk1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syk1k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/syk1k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syk1k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
