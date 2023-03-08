@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [django-geolocation-fields](https://github.com/syk1k/django-geolocation-fields)
 
-- 🌱 I’m currently learning **NodeJS, Golang**
+- 🌱 I’m currently learning **NodeJS, Golang, Swift**
 
 - 💬 Ask me about **Python, Golang, JavaScript**
 
